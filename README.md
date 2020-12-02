@@ -1,5 +1,5 @@
 # DataV_Seaborn</br>
-L’objectif de ce travail est de réaliser plusieurs visualisations préalables aussi bien au processus de prétraitement qu’à la création des modèles de prédiction et ce en utilisant la bibliothèque Seaborn.
+L’objectif de ce travail est de réaliser plusieurs visualisations préalables aussi bien au processus de prétraitement qu’à la création des modèles de prédiction et ce en utilisant la bibliothèque Seaborn.</br>
 Quelques resultats:
 
 ![image](https://user-images.githubusercontent.com/58346874/100939463-99b04f80-34f6-11eb-9555-18ef680f2296.png)
